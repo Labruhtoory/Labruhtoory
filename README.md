@@ -12,6 +12,6 @@ A sandbox for putting ideas into projects.
 - ✔️ THM: https://tryhackme.com/p/labruhtooryboi
 - ✔️ HTB: https://app.hackthebox.eu/users/639896
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Labruhtoory&langs_count=8&layout=compact&theme=dark &hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Labruhtoory&langs_count=8&layout=compact&theme=dark &hide_border=true)](https://github.com/Labruhtoory/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Labruhtoory&theme=dark &count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Labruhtoory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Labruhtoory&theme=dark &count_private=true&show_icons=true&hide_border=true)](https://github.com/Labruhtoory/github-readme-stats)
